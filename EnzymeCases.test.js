@@ -1,6 +1,6 @@
 import React from 'react';
 import { mount, shallow } from 'enzyme';
-import IssuesList from '../src/components/IssuesList/Issues.js';
+import IssuesList from '../components/IssuesList/Issues.js';
 
 const issues = [
   {
